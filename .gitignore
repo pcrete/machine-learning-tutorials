@@ -1,0 +1,6 @@
+.*
+*.pyc 
+__pycache__
+object_detection/faster_rcnn_resnet101_coco_11_06_2017/*
+image_captioning/data/imagenet_weights/resnet101.pth
+!/.gitignore
